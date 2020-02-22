@@ -8,3 +8,8 @@ function lastImageSelector()
 {
   return $('img:last');
 }
+
+function ninjaBablySelector()
+{
+  retrurn $('');
+}
